@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   MaxSpeed: 14
   Acceleration: 120
-  GroundDeceleration: 60
+  GroundDeceleration: 120
   AirDeceleration: 30
   GroundingForce: -1.5
   VerticalDeadzoneThreshold: 0.3
